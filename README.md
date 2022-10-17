@@ -1,2 +1,2 @@
 # gealoro.com
-portfolio
+online resume
